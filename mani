@@ -1,0 +1,6 @@
+cd var/lib/jenkins/worksace/mani/jyothi
+touch f1.txt f2.txt
+ls -ltr
+chmod 777 f1.txt
+rm f1.txt
+echo "task completed"
